@@ -26,4 +26,5 @@ A média final será calculada utilizando a seguinte fórmula:
 | E1       | Entrega E1                                 | 10        |
 | E2       | Entrega E2                                 | 10        |
 
-
+#### 💻 Imagem do exercicio
+![image](https://github.com/JhowRossii/LP1/blob/93bb09dedc5fb4d80d7f36bb00075609b0d0f5ad/Exercicio_01/tabelaAprovacaoLP.png)
