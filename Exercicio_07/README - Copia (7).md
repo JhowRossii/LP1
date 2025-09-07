@@ -1,4 +1,4 @@
-# 💿 Exercício 7: Codar em Java
+#  💻 Exercício 7: Codar em Java
 
 # 🧮 **Teste de Mesa – Cálculo de Média**
 
