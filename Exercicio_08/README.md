@@ -214,21 +214,209 @@ public class Main {
 
 </details>
 
+<details>
+<summary><strong> Classes Exercício 4 </strong></summary> 
 
+<br>
 
+ - ## Classe Animal
 
+  ```java
 
+class Animal {
+    private String nome;
+    private String especie;
+    private int idade;
+    private double peso;
+    private String habitat;
 
+    public void comer() {
+        System.out.println("O animal está comendo.");
+    }
 
+    public void dormir() {
+        System.out.println("O animal está dormindo.");
+    }
 
+    public void emitirSom() {
+        System.out.println("O animal está emitindo som.");
+    }
+}
+  ```
 
+ - ## Classe Estrela
 
+  ```java
 
+class Estrela {
+    private String nome;
+    private String tipo;
+    private double massa;
+    private double temperatura;
 
+    public void brilhar() {
+        System.out.println("A estrela está brilhando.");
+    }
 
+    public void explodir() {
+        System.out.println("A estrela explodiu em uma supernova!");
+    }
 
+    public void alterarTemp() {
+        System.out.println("A estrela alterou sua temperatura.");
+    }
+}
+  ```
 
+ - ## Classe Arvore
 
+  ```java
+
+class Arvore {
+    private String tipo;
+    private double altura;
+    private int idade;
+
+    public void crescer() {
+        System.out.println("A árvore cresceu.");
+    }
+
+    public void produzirFrutos() {
+        System.out.println("A árvore produziu frutos.");
+    }
+
+    public void fotossintetizar() {
+        System.out.println("A árvore está realizando fotossíntese.");
+    }
+}
+  ```
+
+ - ## Classe Main
+
+  ```java
+
+public class Main {
+    public static void main(String[] args) {
+        Animal garca = new Animal();
+        garca.comer();
+        garca.dormir();
+        garca.emitirSom();
+
+        Estrela sol = new Estrela();
+        sol.brilhar();
+        sol.alterarTemp();
+        sol.explodir();
+
+        Arvore palmeira = new Arvore();
+        palmeira.crescer();
+        palmeira.produzirFrutos();
+        palmeira.fotossintetizar();
+    }
+}
+  ```
+
+</details>
+
+<details>
+<summary><strong> Classes Exercício 5 </strong></summary> 
+
+<br>
+
+ - ## Classe Construção 
+
+  ```java
+
+class Construcao {
+    private String tipo;
+    private String tamanho;
+    private double altura;
+
+    public void calcularArea() {
+        System.out.println("Calculando área da construção...");
+    }
+
+    public void calcularQtdPessoas() {
+        System.out.println("Calculando quantidade de pessoas suportada...");
+    }
+
+    public void adicionarComodo() {
+        System.out.println("Adicionando cômodo à construção...");
+    }
+}
+  ```
+
+ - ## Classe Fazenda
+
+  ```java
+
+class Fazenda {
+    private String nome;
+    private double hectares;
+    private int qtdeAnimais;
+
+    public void adicionarAnimal() {
+        qtdeAnimais++;
+        System.out.println("Animal adicionado. Total agora: " + qtdeAnimais);
+    }
+
+    public void calcularDensidadeAnimal() {
+        System.out.println("Densidade: " + (qtdeAnimais / hectares) + " animais/hectare");
+    }
+
+    public void calcularAreaLivre() {
+        System.out.println("Área livre disponível: " + (hectares - qtdeAnimais * 0.1));
+    }
+}
+  ```
+
+ - ## Classe Instrumento Musical
+
+  ```java
+
+class InstrumentoMusical {
+    private String tipo;
+    private String nome;
+    private double preco;
+
+    public void tocar() {
+        System.out.println("Tocando o instrumento musical...");
+    }
+
+    public void consertar() {
+        System.out.println("Consertando o instrumento...");
+    }
+
+    public void afinar() {
+        System.out.println("Afinando o instrumento...");
+    }
+}
+  ```
+
+ - ## Classe Main
+
+  ```java
+
+public class Main {
+    public static void main(String[] args) {
+        Construcao casa = new Construcao();
+        casa.calcularArea();
+        casa.calcularQtdPessoas();
+        casa.adicionarComodo();
+
+        Fazenda fazendinha = new Fazenda();
+        fazendinha.adicionarAnimal();
+        fazendinha.calcularDensidadeAnimal();
+        fazendinha.calcularAreaLivre();
+
+        InstrumentoMusical violao = new InstrumentoMusical();
+        violao.tocar();
+        violao.afinar();
+        violao.consertar();
+    }
+}
+  ```
+
+</details>
 
 
 
