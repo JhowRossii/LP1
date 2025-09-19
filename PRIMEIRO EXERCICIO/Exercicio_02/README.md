@@ -5,5 +5,5 @@ Escolha uma música de sua preferência. A partir dela, elabore 3 classes, sendo
 ## 📻 Música escolhida: Da Ponte Pra Cá - Racionais MC's
 
 #### 💻 Imagem do exercicio
-![image](https://github.com/JhowRossii/LP1/blob/e71462b86a94cf30075e04c153e06a0b3c5107c5/Exercicio_02/adriana%20ex2-%20musica.png)
+![image](https://github.com/JhowRossii/LP1/blob/b8707ba440a07a9124b3fbecb1b658683aa17eaa/PRIMEIRO%20EXERCICIO/Exercicio_02/adriana%20ex2-%20musica.png)
 
