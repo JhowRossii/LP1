@@ -5,14 +5,14 @@ Selecione uma imagem Doodle de sua preferência (Sugestão: https://www.mauromar
 <details>
 <summary><strong> 🎥 Doodle Escolhido </strong></summary>
 
-![image](https://github.com/JhowRossii/LP1/blob/31feba99234f66f3eee18da201dc76c3fa247e44/Exercicio_04/exer4Doodle.png)
+![image](https://github.com/JhowRossii/LP1/blob/80940c9b3a3a8273bcc130e0ab58f49f27973e24/PRIMEIRO%20EXERCICIO/Exercicio_04/exer4Doodle.png)
 
 </details>
 
 <details>
 <summary><strong>💻 Imagem do exercicio  </strong></summary>
   
-![image](https://github.com/JhowRossii/LP1/blob/31feba99234f66f3eee18da201dc76c3fa247e44/Exercicio_04/exer4.png)
+![image](https://github.com/JhowRossii/LP1/blob/80940c9b3a3a8273bcc130e0ab58f49f27973e24/PRIMEIRO%20EXERCICIO/Exercicio_04/exer4.png)
 
 </details>
 
