@@ -14,6 +14,6 @@ Selecione um vídeo de sua preferência. A partir dele,  elabore  3 classes, sen
 <details>
 <summary><strong> 💻 Imagem do exercicio </strong></summary>
 
-![image](https://github.com/JhowRossii/LP1/blob/6d48a45b707cc19d3341ea7f84c83cf5ae31d765/Exercicio_05/exer5.png)
+![image](https://github.com/JhowRossii/LP1/blob/c75a4b6074ffe4e9cfab6bfe6c590ed838ee5c31/PRIMEIRO%20EXERCICIO/Exercicio_05/exer5.png)
   
 </details>
