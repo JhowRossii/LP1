@@ -6,10 +6,10 @@ Consulte o link https://www.culturagenial.com/vik-muniz-obras/. Selecione duas c
 <summary><strong> 🎥 Imagem 1:  Paparazzi </strong></summary>
 
 #### 📝 Imagem consultada
-![image](https://github.com/JhowRossii/LP1/blob/6e45ce59836e6cd252a03a0b237afafe5a365357/Exercicio_03/fotoExer3Paparazzi.png)
+![image](https://github.com/JhowRossii/LP1/blob/7072637bc62ce241652aba0527e1aef491fd638b/PRIMEIRO%20EXERCICIO/Exercicio_03/fotoExer3Paparazzi.png)
 
 #### 💻 Imagem do exercicio
-![image](https://github.com/JhowRossii/LP1/blob/6e45ce59836e6cd252a03a0b237afafe5a365357/Exercicio_03/Ex3Paparazzi.png)
+![image](https://github.com/JhowRossii/LP1/blob/7072637bc62ce241652aba0527e1aef491fd638b/PRIMEIRO%20EXERCICIO/Exercicio_03/Ex3Paparazzi.png)
 
 </details>
 
@@ -17,9 +17,9 @@ Consulte o link https://www.culturagenial.com/vik-muniz-obras/. Selecione duas c
 <summary><strong> 👶 Imagem 2:  Sugar Children </strong></summary>
   
 #### 📝 Imagem consultada
-![image](https://github.com/JhowRossii/LP1/blob/6e45ce59836e6cd252a03a0b237afafe5a365357/Exercicio_03/fotoExer3SugarChildren.png)
+![image](https://github.com/JhowRossii/LP1/blob/7072637bc62ce241652aba0527e1aef491fd638b/PRIMEIRO%20EXERCICIO/Exercicio_03/fotoExer3SugarChildren.png)
 
 #### 💻 Imagem do exercicio
-![image](https://github.com/JhowRossii/LP1/blob/6e45ce59836e6cd252a03a0b237afafe5a365357/Exercicio_03/Ex3SugarChildren.png)
+![image](https://github.com/JhowRossii/LP1/blob/7072637bc62ce241652aba0527e1aef491fd638b/PRIMEIRO%20EXERCICIO/Exercicio_03/Ex3SugarChildren.png)
 
 </details>
